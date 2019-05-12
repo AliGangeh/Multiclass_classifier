@@ -1,2 +1,1 @@
 # Multiclass_classifier
-# MNIST
